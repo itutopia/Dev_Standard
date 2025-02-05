@@ -1,4 +1,6 @@
-#  企业级开发规范(enterprise_dev_standard): 打造企业级开箱即用规范标准.
+#  企业级开发规范(enterprise_dev_standard)
+----
+打造企业级开箱即用规范标准.
 
 ## 企业级环境搭建
 
